@@ -1,10 +1,8 @@
 <div align="center">
   
-# 👋 Salam, mən Novruzoff9!
+# 👋 Salam, mən Yağmur Novruzlu
 
-### Full-Stack Developer & Programming Mentor
-
-*Texnologiya ilə gələcək qurmaq*
+### .NET Back-end Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/novruzoff9?label=Followers&style=social)](https://github.com/novruzoff9)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaghmur-novruzlu-50779a21a/)
