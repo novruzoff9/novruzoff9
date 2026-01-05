@@ -19,19 +19,19 @@ Mən uzun illərdir proqramlaşdırma sahəsində bir çox şəxsi və frilans l
 ## 🛠️ Texnologiyalar və Alətlər
 
 ### Programlaşdırma Dilləri
-[![Programming](https://skillicons.dev/icons?i=cpp,cs,py,java,js)](https://skillicons.dev)
+[![Programming](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,py,java,js)](https://go-skill-icons.vercel.app/api)
 
 ### Frontend
-[![FrontEnd](https://skillicons.dev/icons?i=html,css,js,jquery,ts,bootstrap,sass,react,nextjs)](https://skillicons.dev)
+[![FrontEnd](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,bootstrap,sass,react,nextjs)](https://go-skill-icons.vercel.app/api)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=dotnet,flask)](https://skillicons.dev)
+[![Backend](https://go-skill-icons.vercel.app/api/icons?i=dotnet,flask)](https://go-skill-icons.vercel.app/api)
 
 ### Verilənlər Bazası
-[![Database](https://skillicons.dev/icons?i=redis,mongodb,mysql,postgresql,sqlite)](https://skillicons.dev)
+[![Database](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,redis,postgresql,mongodb,oracle,mysql,sqlite)](https://go-skill-icons.vercel.app/api)
 
 ### Alətlər və Platformalar
-[![Tools](https://skillicons.dev/icons?i=git,github,azure,aws,docker,rabbitmq,firebase)](https://skillicons.dev)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,azure,aws,digitalocean,docker,rabbitmq,firebase,netlify)](https://go-skill-icons.vercel.app/api)
 ---
 
 ## 📂 Layihələrim
@@ -41,7 +41,6 @@ Mən uzun illərdir proqramlaşdırma sahəsində bir çox şəxsi və frilans l
 Back end əsaslı proqramlaşdırma qruplarında hazırladığım praktiki tapşırıqlar və layihələr:
 
 - [PB305](https://github.com/novruzoff9/PB305) 
-
 - [PA201](https://github.com/novruzoff9/PA201Lab)
 
 ---
@@ -75,5 +74,6 @@ Model-View-Controller arxitekturası ilə hazırlanmış full-stack tətbiqlər:
 
 ## 📫 Əlaqə
 
-Email: [yaghmur.novruzlu@gmail.com](mailto:yaghmur.novruzlu@gmail.com)
-LinkedIn: [Yaghmur Novruzlu](https://www.linkedin.com/in/yaghmur-novruzlu-50779a21a/)
+- Email: [yaghmur.novruzlu@gmail.com](mailto:yaghmur.novruzlu@gmail.com)
+
+- LinkedIn: [Yaghmur Novruzlu](https://www.linkedin.com/in/yaghmur-novruzlu-50779a21a/)
