@@ -55,6 +55,14 @@ RESTful API və server-side tətbiqlər:
 
 ---
 
+### 📦 NuGet Paketləri
+
+Open source NuGet paketlərim:
+
+- [GatewayConfigKit](https://github.com/novruzoff9/GatewayConfigKit) - Gateway istifadəsi zamanı Route-ları UI üzərindən idarə etməyə imkan verən NuGet paketi (.NET 8+)
+
+---
+
 ### 🎨 Frontend Layihələri
 
 Modern və responsive web interfeyslər:
