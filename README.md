@@ -42,6 +42,10 @@ Back end əsaslı proqramlaşdırma qruplarında hazırladığım praktiki tapş
 
 - [PB305](https://github.com/novruzoff9/PB305) 
 - [PA201](https://github.com/novruzoff9/PA201Lab)
+- [PA202](https://github.com/novruzoff9/PA202)
+- [APA202](https://github.com/novruzoff9/APA202)
+- [AzMPA101](https://github.com/novruzoff9/AzMPA101)
+
 
 ---
 
