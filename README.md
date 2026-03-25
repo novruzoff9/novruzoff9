@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Salam, mən Yağmur Novruzlu
+# Yağmur Novruzlu
 
 ### .NET Back-end Developer
 
