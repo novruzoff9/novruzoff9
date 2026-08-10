@@ -4,7 +4,7 @@
 
 ### .NET Back-end Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/novruzoff9?label=Followers&style=social)](https://github.com/novruzoff9)
+[![GitHub followers](https://img.shields.io/github/followers/novruzoff9?label=Followers&style=social)](https://github.com/novruzov9)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaghmur-novruzlu-50779a21a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yaghmur.novruzlu@gmail.com)
 </div>
@@ -40,11 +40,11 @@ Mən uzun illərdir proqramlaşdırma sahəsində bir çox şəxsi və frilans l
 
 Back end əsaslı proqramlaşdırma qruplarında hazırladığım praktiki tapşırıqlar və layihələr:
 
-- [PB305](https://github.com/novruzoff9/PB305) 
-- [PA201](https://github.com/novruzoff9/PA201Lab)
-- [PA202](https://github.com/novruzoff9/PA202)
-- [APA202](https://github.com/novruzoff9/APA202)
-- [AzMPA101](https://github.com/novruzoff9/AzMPA101)
+- [PB305](https://github.com/novruzov9/PB305) 
+- [PA201](https://github.com/novruzov9/PA201Lab)
+- [PA202](https://github.com/novruzov9/PA202)
+- [APA202](https://github.com/novruzov9/APA202)
+- [AzMPA101](https://github.com/novruzov9/AzMPA101)
 
 
 ---
@@ -53,9 +53,9 @@ Back end əsaslı proqramlaşdırma qruplarında hazırladığım praktiki tapş
 
 RESTful API və server-side tətbiqlər:
 
-- [MrPos](https://github.com/novruzoff9/MRPos) - Restoran üçün mikroservis arxitekturası ilə REST API (C# + .NET 10 + MS SQL + RabbitMQ)
-- [Task Flow](https://github.com/novruzoff9/TaskFlow) - Task management sistemi (C# + .NET 8 + PostgreSQL)
-- [Printer Server](https://github.com/novruzoff9/PrinterServer) - Printer server (Python + Flask)
+- [MrPos](https://github.com/novruzov9/MRPos) - Restoran üçün mikroservis arxitekturası ilə REST API (C# + .NET 10 + MS SQL + RabbitMQ)
+- [Task Flow](https://github.com/novruzov9/TaskFlow) - Task management sistemi (C# + .NET 8 + PostgreSQL)
+- [Printer Server](https://github.com/novruzov9/PrinterServer) - Printer server (Python + Flask)
 
 ---
 
@@ -63,15 +63,15 @@ RESTful API və server-side tətbiqlər:
 
 Open source NuGet paketlərim:
 
-- [GatewayConfigKit](https://github.com/novruzoff9/GatewayConfigKit) - Gateway istifadəsi zamanı Route-ları UI üzərindən idarə etməyə imkan verən NuGet paketi (.NET 8+)
+- [GatewayConfigKit](https://github.com/novruzov9/GatewayConfigKit) - Gateway istifadəsi zamanı Route-ları UI üzərindən idarə etməyə imkan verən NuGet paketi (.NET 8+)
 
 ---
 
 ### 🎨 Frontend Layihələri
 
 Modern və responsive web interfeyslər:
-- [MrPos](https://github.com/novruzoff9/MrPosReact) - Restoran idarəetmə sistemi (React + Typescript)
-- [Task Flow](https://github.com/novruzoff9/TaskFlow-Front) - Task idarəetmə sistemi (Next.js + Typescript )
+- [MrPos](https://github.com/novruzov9/MrPosReact) - Restoran idarəetmə sistemi (React + Typescript)
+- [Task Flow](https://github.com/novruzov9/TaskFlow-Front) - Task idarəetmə sistemi (Next.js + Typescript )
 
 ---
 
@@ -79,8 +79,8 @@ Modern və responsive web interfeyslər:
 
 Model-View-Controller arxitekturası ilə hazırlanmış full-stack tətbiqlər:
 
-- [DigitalVolunteers App](https://github.com/novruzoff9/DigitalVolunteers) - Könüllü təşkilatı üçün idarəetmə sistemi (ASP.NET MVC + SQL Server)
-- [Marvel Movies](https://github.com/novruzoff9/MarvelMovies) - Marvel filmləri üçün IMDB bənzəri layihə (ASP.NET MVC + SQL Server)
+- [DigitalVolunteers App](https://github.com/novruzov9/DigitalVolunteers) - Könüllü təşkilatı üçün idarəetmə sistemi (ASP.NET MVC + SQL Server)
+- [Marvel Movies](https://github.com/novruzov9/MarvelMovies) - Marvel filmləri üçün IMDB bənzəri layihə (ASP.NET MVC + SQL Server)
 
 ---
 
